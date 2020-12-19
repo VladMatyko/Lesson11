@@ -1,0 +1,9 @@
+.search1{width: 80%;
+border-color: blue;}
+.text1{color: rgb(0, 255, 0); position: relative; top: -16px; right: 3px;}
+.width{height: 28px;
+width: 55px;
+position: relative;
+bottom: -15px;
+right: 6px;}
+input:focus{color: green;}
