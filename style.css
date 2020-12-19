@@ -1,3 +1,38 @@
-.o{background-color: green; width: 60%; height: 100px;}
-.o2{background-color: rgb(119, 0, 255); width: 60%; height: 100px;}
-.o3{background-color: rgb(255, 0, 0); width: 60%; height: 100px;}
+h1{position: absolute;
+left: 43.5%; 
+bottom: 750px;}
+#login{position: absolute;
+left: 37%; 
+bottom: 70%;
+width: 20%;}
+.login1{position: absolute;
+bottom: 73%; 
+left: 39%;}
+#login1{position: absolute;
+left: 37%;
+bottom: 60%;
+width: 20%;}
+.login2{position: absolute;
+    bottom: 63%; 
+    left: 39%;}
+#login2{position: absolute;
+        left: 37%;
+        bottom: 50%;
+        width: 20%;}
+.login3{position: absolute;
+    bottom: 53%; 
+    left: 39%;}
+body{background-color: #097974;}
+.login4:focus::-webkit-input-placeholder {
+    color: transparent;
+  }
+.bottom{position: absolute;
+    bottom: 42%; 
+    left: 36%; background-color: #52c68c; border-color: #52c68c;}
+.bot{position: absolute;
+    bottom: 38%; 
+    left: 36%;}
+    .bot1{position: absolute;
+        bottom: 387px; 
+        left: 45.5%;}
+.bottom:focus{background-color: rgb(63,94,251); border-color: rgb(63,94,251);}
